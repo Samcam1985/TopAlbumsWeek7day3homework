@@ -23,4 +23,7 @@ public class AlbumTest {
 
     @Test
     public void getTitleTest() { assertEquals("Appetite for Destruction", album.getTitle());}
+
+    @Test
+    public void getArtistTest() { assertEquals("Guns 'N' Roses", album.getArtist());}
 }
