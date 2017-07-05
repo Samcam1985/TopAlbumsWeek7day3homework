@@ -20,4 +20,7 @@ public class AlbumTest {
     public void getRankingTest() {
         assertEquals((Integer)70, album.getRanking());
     }
+
+    @Test
+    public void getTitleTest() { assertEquals("Appetite for Destruction", album.getTitle());}
 }
