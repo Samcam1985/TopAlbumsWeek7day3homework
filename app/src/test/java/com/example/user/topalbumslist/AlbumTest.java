@@ -1,5 +1,7 @@
 package com.example.user.topalbumslist;
 
+import com.example.topalbumslist.Album;
+
 import org.junit.Before;
 import org.junit.Test;
 

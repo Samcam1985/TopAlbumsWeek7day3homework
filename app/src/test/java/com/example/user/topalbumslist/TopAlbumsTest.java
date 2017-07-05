@@ -1,5 +1,7 @@
 package com.example.user.topalbumslist;
 
+import com.example.topalbumslist.TopAlbums;
+
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

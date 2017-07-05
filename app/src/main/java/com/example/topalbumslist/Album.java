@@ -1,4 +1,4 @@
-package com.example.user.topalbumslist;
+package com.example.topalbumslist;
 
 /**
  * Created by user on 05/07/2017.

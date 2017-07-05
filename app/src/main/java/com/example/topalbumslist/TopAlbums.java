@@ -1,4 +1,4 @@
-package com.example.user.topalbumslist;
+package com.example.topalbumslist;
 
 
 import java.util.ArrayList;
