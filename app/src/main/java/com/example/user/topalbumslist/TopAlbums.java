@@ -45,5 +45,6 @@ public class TopAlbums {
         list.add(new Album(30 "Live At Carnegie Hall - An Acoustic", "Joe Bonamassa"));
     }
 
+    public ArrayList<Album> getList() { return new ArrayList<Album>(list);}
 
 }
